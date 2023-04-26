@@ -1,5 +1,7 @@
 # 学生成绩信息管理系统
 
+### 相似项目：[学生选课成绩管理系统](https://github.com/34426/student-course-selection-score)
+
 ### 有问题，或者不会调试运行的同学, 可以添加微信号：xzxj0206（备注项目名称）
 
 ![img.png](imgs/img.png)
