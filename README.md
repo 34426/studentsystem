@@ -2,9 +2,8 @@
 
 ### 相似项目：[学生选课成绩管理系统](https://github.com/34426/student-course-selection-score)
 
-### 有问题，或者需要协助调试运行项目的, 可以添加 QQ：2529519551 ，或者wx ：xzxj0206 
+### 有问题，或者需要协助调试运行项目的, 可以添加 QQ：2529519551 ，或者wx ：xzxj0206
 
-![img.png](imgs/img.png)
 
 ## 一、系统运行界面
 
